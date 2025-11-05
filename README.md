@@ -67,22 +67,6 @@ Open the app in your browser
 
 http://localhost:3000
 
-Folder Structure
-src/
- ├─ app/
- │   ├─ layout.tsx
- │   └─ page.tsx
- ├─ components/
- │   ├─ DataTable.tsx
- │   ├─ ManageColumnsModal.tsx
- │   └─ ImportExport.tsx
- ├─ store/
- │   ├─ index.ts
- │   └─ tableSlice.ts
- ├─ utils/
- │   └─ csv.ts
- └─ styles/
-     └─ globals.css
 
 How It Works
 
