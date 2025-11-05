@@ -1,0 +1,4 @@
+html, body, #__next { height: 100%; }
+body { margin: 0; font-family: Inter, Roboto, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
+h1 { margin-bottom: 12px; }
+.container { padding-top: 24px; }
